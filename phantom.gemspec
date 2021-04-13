@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "phantom"
   spec.version       = "0.1.1"
-  spec.authors       = ["Jami Gibbs"]
-  spec.email         = ["jami0821@gmail.com"]
+  spec.authors       = ["Arpit Singh"]
+  spec.email         = ["me@arpitsingh.in"]
 
   spec.summary       = "Phantom Jekyll Theme"
   spec.homepage      = "https://github.com/jamigibbs/phantom"
